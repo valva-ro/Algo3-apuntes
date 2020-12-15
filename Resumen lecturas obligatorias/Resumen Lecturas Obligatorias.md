@@ -257,3 +257,17 @@ Algo importante es no confundir la cobertura de las pruebas con la calidad del p
 
 Analizando los costos y beneficios de tener una cobertura del 100% se llega a que un buen objetivo es tener entre un 80%-90%.
 
+# Referencias
+
+1. "**[Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)**", [Dan Ingalls](https://en.wikipedia.org/wiki/Dan_Ingalls)
+2. "**[Unit Testing Guidelines](https://petroware.no/unittesting.html)**", Petroware SA
+3. [**Chapter 1 - What Is the Point of Test-Driven Development?**](https://github.com/gg-daddy/ebooks/blob/master/Growing Object-Oriented Software%2C Guided by Tests.pdf)[1], Addison-Wesley - 2011
+4. "**[8 Principles of Better Unit Testing](http://esj.com/Articles/2012/09/24/Better-Unit-Testing.aspx?p=1)**", Dror Helper
+5. "**[The Art of Enbugging](https://media.pragprog.com/articles/jan_03_enbug.pdf)**", [Andy Hunt](https://en.wikipedia.org/wiki/Andy_Hunt_(author)) & [Dave Thomas](https://en.wikipedia.org/wiki/Dave_Thomas_(programmer))
+6. "**[GetterEradicator](https://martinfowler.com/bliki/GetterEradicator.html)**", [Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler)
+7. "**[Replace Conditional With Polymorphism](https://sourcemaking.com/refactoring/replace-conditional-with-polymorphism)**", [SourceMaking](https://sourcemaking.com/)
+8. "**[What's a Model For?](http://martinfowler.com/distributedComputing/purpose.pdf)**", [Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler) 
+9. "**[Pruebas de software](https://campus.fi.uba.ar/pluginfile.php/230628/mod_page/content/10/Pruebas2018.pdf)**", [Carlos Fontela](https://limetfiuba.github.io/carlosfontela/) 
+10. "**[Continuous Integration](https://www.martinfowler.com/articles/continuousIntegration.html)**", [Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler) 
+11. "**[Estado del arte y tendencias en Test-Driven Development](http://sedici.unlp.edu.ar/bitstream/handle/10915/4216/Documento_completo.pdf?sequence=1&isAllowed=y)**", [Carlos Fontela](https://limetfiuba.github.io/carlosfontela/) 
+12. "**[Using Java Reflection](http://www.oracle.com/technetwork/articles/java/javareflection-1536171.html)**", Glen McCluskey
